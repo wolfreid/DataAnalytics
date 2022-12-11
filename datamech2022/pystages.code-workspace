@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+
+		"python.defaultInterpreterPath":"C:\\Users\\Roman.Prylypko\\.conda\\envs\\pystages\\python.exe",
+		"python.terminal.activateEnvironment": true
+	}
+}
