@@ -1,3 +1,3 @@
 # DataAnalysisForEveryone
-Publish common scripts to use in regular tasks
+Publishing common scripts on its repo for use in regular tasks
 Learning DS
